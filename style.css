@@ -99,11 +99,11 @@ p{
     flex: 2;
 }  
 
-.header{
-    /*position: fixed;
+/*.header{
+    position: fixed;
     background: repeating-linear-gradient(#fff,#999797);*/
-    /*radial-gradient(#fff,#555);*/
-}
+    /*radial-gradient(#fff,#555);
+}*/
 .header .row{
     margin-top: 70px;
 }
